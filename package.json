@@ -1,0 +1,26 @@
+{
+  "name": "carboncalculator",
+  "version": "1.0.0",
+  "description": "restful api to calculate carbon footprint",
+  "main": "index.js",
+  "scripts": {
+    "serve": "nodemon ap.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lmwright6/carboncalculator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lmwright6/carboncalculator/issues"
+  },
+  "homepage": "https://github.com/lmwright6/carboncalculator#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
